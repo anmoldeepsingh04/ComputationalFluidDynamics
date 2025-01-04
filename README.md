@@ -1,0 +1,1 @@
+The repository contains the assignments for ME605 Computational Heat and Fluid Flow course taken by Dr.Sudhakar Yogaraj and Dr.Rudra N. Roy for Autumn Semester of 2021 in School of Mechanical Sciences, Indian Institute of Technology Goa
